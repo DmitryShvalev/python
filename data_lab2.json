@@ -1,0 +1,104 @@
+{
+  "Cocktails" : [
+   {
+      "ml": 300,
+      "type": "Mojito",
+      "amount": 4
+    },
+    {
+      "ml": 250,
+      "type": "Margaret",
+      "amount": 2
+    },
+    {
+      "ml": 400,
+      "type": "Daiquiri",
+      "amount": 1
+    },
+     {
+      "ml": 150,
+      "type": "Cosmopolitan",
+      "amount": 3
+    },
+    {
+      "ml": 350,
+      "type": "Daiquiri",
+      "amount": 2
+    },
+   {
+      "ml": 400,
+      "type": "Bloody Mary",
+      "amount": 4
+    },
+    {
+      "ml": 250,
+      "type": "Daiquiri",
+      "amount": 3
+    },
+     {
+      "ml": 150,
+      "type": "Cosmopolitan",
+      "amount": 2
+    },
+    {
+      "ml": 250,
+      "type": "Cosmopolitan",
+      "amount": 2
+    },
+     {
+      "ml": 150,
+      "type": "Cosmopolitan",
+      "amount": 1
+    },
+     {
+      "ml": 150,
+      "type": "Cosmopolitan",
+      "amount": 5
+    },
+   {
+      "ml": 400,
+      "type": "Bloody Mary",
+      "amount": 3
+    },
+    {
+      "ml": 150,
+      "type": "Cosmopolitan",
+      "amount": 3
+    },
+     {
+      "ml": 150,
+      "type": "Mulled wine",
+      "amount": 3
+    },
+     {
+      "ml": 150,
+      "type": "Cosmopolitan",
+      "amount": 3
+    },
+   {
+      "ml": 400,
+      "type": "Bloody Mary",
+      "amount": 4
+    },
+    {
+      "ml": 150,
+      "type": "Martini",
+      "amount": 1
+    },
+     {
+      "ml": 400,
+      "type": "Martini",
+      "amount": 2
+    },
+    {
+      "ml": 150,
+      "type": "Cosmopolitan",
+      "amount": 1
+    },
+    {
+      "ml": 150,
+      "type": "Cosmopolitan",
+      "amount": 1
+    }
+  ]
+}
